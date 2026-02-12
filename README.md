@@ -19,7 +19,6 @@ I'm a 4th-year student and a passionate developer focused on **backend developme
 * 🛠️ Squirrel (SQL query builder)
 * 🔑 JWT (authentication & authorization)
 * ⚙️ Viper (configuration management)
-* 📜 Swagger (API documentation)
 * 🔄 Go Migrate (database migrations)
 * 🌐 gRPC (RPC framework)
 
@@ -35,4 +34,5 @@ I'm a 4th-year student and a passionate developer focused on **backend developme
 * 📊 Prometheus (metrics collection)
 * 📈 Grafana (visualization & dashboards)
 * 🐳 Docker & Docker Compose
+* 📜 Swagger (API documentation)
 * ⚡ CI/CD, Microservices, REST APIs
