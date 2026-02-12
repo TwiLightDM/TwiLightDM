@@ -20,6 +20,7 @@ I'm a 4th-year student and a passionate developer focused on **backend developme
 * 🔑 JWT (authentication & authorization)
 * ⚙️ Viper (configuration management)
 * 🔄 Go Migrate (database migrations)
+* 📜 Swagger (API documentation)
 * 🌐 gRPC (RPC framework)
 
 **Databases & Messaging:**
@@ -34,5 +35,4 @@ I'm a 4th-year student and a passionate developer focused on **backend developme
 * 📊 Prometheus (metrics collection)
 * 📈 Grafana (visualization & dashboards)
 * 🐳 Docker & Docker Compose
-* 📜 Swagger (API documentation)
 * ⚡ CI/CD, Microservices, REST APIs
