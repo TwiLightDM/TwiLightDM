@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Welcome to my profile!
 
-<!--
-**TwiLightDM/TwiLightDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th-year student and a passionate developer focused on **backend development with Go**. I enjoy building secure, efficient, and maintainable web applications and services.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+**Languages:**
+
+* 🟢 Go
+* 🐘 SQL
+
+**Frameworks & Libraries:**
+
+* 🌐 Echo (HTTP web framework)
+* 📦 Gorm (ORM for Go)
+* 🐘 pgx (PostgreSQL driver)
+* 🛠️ Squirrel (SQL query builder)
+* 🔑 JWT (authentication & authorization)
+* ⚙️ Viper (configuration management)
+* 📜 Swagger (API documentation)
+* 🔄 Go Migrate (database migrations)
+* 🌐 gRPC (RPC framework)
+
+**Databases & Messaging:**
+
+* 🐘 PostgreSQL
+* 🧠 Redis
+* 🍃 MongoDB
+* ☕ Kafka
+
+**Monitoring & Tools:**
+
+* 📊 Prometheus (metrics collection)
+* 📈 Grafana (visualization & dashboards)
+* 🐳 Docker & Docker Compose
+* ⚡ CI/CD, Microservices, REST APIs
