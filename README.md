@@ -1,6 +1,6 @@
 # 👋 Welcome to my profile!
 
-I'm a 4th-year student and a passionate developer focused on **backend development with Go**. I enjoy building secure, efficient, and maintainable web applications and services.
+I'm a 1st-year Master's student and a passionate developer focused on **backend development with Go**. I enjoy building secure, efficient, and maintainable web applications and services.
 
 ---
 
